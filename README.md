@@ -14,8 +14,8 @@ This program keeps all the passwords safe.
 2. Now enter the username and password,then click on "login" button.
 
 # How To Delete The Account?
-Step 1. Click on "delete account" button in the main menu.
-Step 2. Now enter the username and password,then click on "Delete" button.
+1. Click on "delete account" button in the main menu.
+2. Now enter the username and password,then click on "Delete" button.
 
 # Features
 1. All the saved passwords are encrypted.
